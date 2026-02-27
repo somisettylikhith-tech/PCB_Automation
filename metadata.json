@@ -1,0 +1,6 @@
+
+{
+  "name": "PCB AI",
+  "description": "An AI-powered PCB design automation platform that converts natural language or schematic files into production-ready PCB layouts and Gerber files.",
+  "requestFramePermissions": []
+}
