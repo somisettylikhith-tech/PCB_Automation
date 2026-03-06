@@ -3,12 +3,12 @@ import { DesignData } from "../types";
 
 // Initialize Gemini (FIXED)
 import.meta.env.VITE_API_KEY;
-const genAI = new GoogleGenerativeAI(import.meta.env.VITE_API_KEY);
-console.log("API KEY:", import.meta.env.VITE_API_KEY);
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Use a valid model
 const model = genAI.getGenerativeModel({
-  model: "gemini-1.5-flash",
+  model: "gemini-1.5-flash-latest",
 });
 
 export async function generateDesignFromPrompt(
