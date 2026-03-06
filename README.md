@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -22,3 +23,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1lcrP85ZGYUAi0SmCkN0CcQ
 =======
 # PCB_Automation
 >>>>>>> 244d74c06cfa37d641f6787192e5ff7ec48f8117
+=======
+# Pcb_automation
+>>>>>>> a06a57cdb97804b9f6c47e38b5121353ffd7a993
